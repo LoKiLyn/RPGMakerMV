@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"WorldMap","order":1,"parentId":0,"scrollX":8656.5,"scrollY":2214.75},
-{"id":2,"expanded":false,"name":"First Palace","order":2,"parentId":1,"scrollX":688.5,"scrollY":485.25},
-{"id":3,"expanded":false,"name":"勇者之家","order":5,"parentId":5,"scrollX":688.5,"scrollY":485.25},
-null,
-{"id":5,"expanded":true,"name":"勇者之村","order":3,"parentId":1,"scrollX":2011.5,"scrollY":474.75},
-{"id":6,"expanded":true,"name":"勇者训练场","order":4,"parentId":5,"scrollX":676.5,"scrollY":485.25}
+{"id":1,"expanded":true,"name":"WorldMap","order":1,"parentId":0,"scrollX":8484,"scrollY":1690.5},
+{"id":2,"expanded":false,"name":"Castle Badorando","order":3,"parentId":4,"scrollX":1377,"scrollY":970.5},
+{"id":3,"expanded":false,"name":"勇者之家","order":6,"parentId":5,"scrollX":1377,"scrollY":970.5},
+{"id":4,"expanded":true,"name":"Chapter1StartScene","order":2,"parentId":1,"scrollX":1377,"scrollY":970.5},
+{"id":5,"expanded":true,"name":"勇者之村","order":4,"parentId":4,"scrollX":1353,"scrollY":970.5},
+{"id":6,"expanded":true,"name":"勇者训练场","order":5,"parentId":5,"scrollX":816,"scrollY":896}
 ]
