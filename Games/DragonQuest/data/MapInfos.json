@@ -1,13 +1,14 @@
 [
 null,
 {"id":1,"expanded":true,"name":"WorldMap","order":1,"parentId":0,"scrollX":7640,"scrollY":1406},
-{"id":2,"expanded":true,"name":"Castle Badorando","order":3,"parentId":4,"scrollX":3540,"scrollY":1003.5},
+{"id":2,"expanded":true,"name":"Castle Badorando","order":3,"parentId":4,"scrollX":2718,"scrollY":2648},
 {"id":3,"expanded":false,"name":"勇者之家","order":7,"parentId":5,"scrollX":463.5,"scrollY":405},
-{"id":4,"expanded":true,"name":"Chapter1StartScene","order":2,"parentId":1,"scrollX":856.5,"scrollY":898.5},
-{"id":5,"expanded":false,"name":"勇者之村","order":5,"parentId":4,"scrollX":1831.1999999999998,"scrollY":1272},
+{"id":4,"expanded":true,"name":"Chapter1StartScene","order":2,"parentId":1,"scrollX":1158,"scrollY":722},
+{"id":5,"expanded":false,"name":"勇者之村","order":5,"parentId":4,"scrollX":1546,"scrollY":724},
 {"id":6,"expanded":true,"name":"勇者训练场","order":6,"parentId":5,"scrollX":700.5,"scrollY":895.5},
-{"id":7,"expanded":false,"name":"巴多兰多皇宫","order":4,"parentId":2,"scrollX":2983.5,"scrollY":1003.5},
-{"id":8,"expanded":false,"name":"巴多兰多城","order":8,"parentId":4,"scrollX":3943.2,"scrollY":1272},
-{"id":9,"expanded":false,"name":"巴多兰多城北洞穴","order":9,"parentId":4,"scrollX":1714.8,"scrollY":1272},
-{"id":10,"expanded":false,"name":"史莱琳的迷宫","order":10,"parentId":4,"scrollX":685.1999999999999,"scrollY":423.59999999999997}
+{"id":7,"expanded":false,"name":"巴多兰多皇宫","order":4,"parentId":2,"scrollX":2698,"scrollY":1004},
+{"id":8,"expanded":false,"name":"巴多兰多城","order":8,"parentId":4,"scrollX":2686,"scrollY":3618},
+{"id":9,"expanded":false,"name":"巴多兰多城北洞穴","order":9,"parentId":4,"scrollX":1142,"scrollY":706},
+{"id":10,"expanded":true,"name":"史莱琳的迷宫","order":10,"parentId":4,"scrollX":1142.4,"scrollY":706.4},
+{"id":11,"expanded":false,"name":"古井01","order":11,"parentId":10,"scrollX":685.1999999999999,"scrollY":423.59999999999997}
 ]
