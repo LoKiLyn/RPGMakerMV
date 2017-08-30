@@ -3751,8 +3751,7 @@ for (Yanfly.i = 1; Yanfly.i <= 100; ++Yanfly.i) {
   Yanfly.MMM.MainBind[Yanfly.i] = eval(Yanfly.line);
   Yanfly.line = "String(Yanfly.Parameters['Menu " + Yanfly.i + " Actor Bind'])";
   Yanfly.MMM.ActorBind[Yanfly.i] = eval(Yanfly.line);
-};
-
+}
 //=============================================================================
 // SceneManager
 //=============================================================================

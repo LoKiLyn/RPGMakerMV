@@ -1,9 +1,9 @@
 [
 null,
-{"id":1,"expanded":true,"name":"WorldMap","order":1,"parentId":0,"scrollX":8031.599999999999,"scrollY":1946.3999999999999},
-{"id":2,"expanded":true,"name":"Castle Badorando","order":3,"parentId":4,"scrollX":2718,"scrollY":2648},
+{"id":1,"expanded":true,"name":"WorldMap","order":1,"parentId":0,"scrollX":7368,"scrollY":1678.8},
+{"id":2,"expanded":true,"name":"Castle Badorando","order":3,"parentId":4,"scrollX":4114.8,"scrollY":1678.8},
 {"id":3,"expanded":false,"name":"勇者之家","order":7,"parentId":5,"scrollX":463.5,"scrollY":405},
-{"id":4,"expanded":true,"name":"Chapter1StartScene","order":2,"parentId":1,"scrollX":685.1999999999999,"scrollY":1016.4},
+{"id":4,"expanded":true,"name":"Chapter1StartScene","order":2,"parentId":1,"scrollX":685.1999999999999,"scrollY":423.59999999999997},
 {"id":5,"expanded":false,"name":"勇者之村","order":5,"parentId":4,"scrollX":2002.8,"scrollY":1946.3999999999999},
 {"id":6,"expanded":true,"name":"勇者训练场","order":6,"parentId":5,"scrollX":700.5,"scrollY":895.5},
 {"id":7,"expanded":false,"name":"巴多兰多皇宫","order":4,"parentId":2,"scrollX":2685.6,"scrollY":3416.3999999999996},
